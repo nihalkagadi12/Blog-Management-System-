@@ -1,0 +1,13 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+C:\Users\Dipali\OneDrive\Desktop\BMS\Views\Post\Index.cshtml(32,57): error CS1001: Identifier expected [C:\Users\Dipali\OneDrive\Desktop\BMS\BlogManagementSystem.csproj]
+C:\Users\Dipali\OneDrive\Desktop\BMS\Views\Post\Index.cshtml(32,59): error CS1002: ; expected [C:\Users\Dipali\OneDrive\Desktop\BMS\BlogManagementSystem.csproj]
+
+Build FAILED.
+
+C:\Users\Dipali\OneDrive\Desktop\BMS\Views\Post\Index.cshtml(32,57): error CS1001: Identifier expected [C:\Users\Dipali\OneDrive\Desktop\BMS\BlogManagementSystem.csproj]
+C:\Users\Dipali\OneDrive\Desktop\BMS\Views\Post\Index.cshtml(32,59): error CS1002: ; expected [C:\Users\Dipali\OneDrive\Desktop\BMS\BlogManagementSystem.csproj]
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:02.23
